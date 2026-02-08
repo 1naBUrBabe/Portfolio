@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Prompt';
+    src: url('./font/Ubuntu-Regular.ttf') format('truetype');
+}
+
+* {
+    font-family: 'Prompt';
+    scroll-behavior: smooth;
+}
+
