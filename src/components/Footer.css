@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#Footer {
+    width: 100%;
+}
+
+.footer-container {
+    background-color: #06016C;
+    color: white;
+    /* height: 120px; */
+    width: 100%;
+    justify-items: center;
+    align-content: center;
+}
+
+.footer-container a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.footer-container p {
+    margin: 15px 0;
+    font-size: 18px;
+}
+
+.contact {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+
+
